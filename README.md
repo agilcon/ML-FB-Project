@@ -1,15 +1,21 @@
 # ML-FB-Proyect
-Crear un algoritmo en python que compare los diferentes modelos de machine learning para el pronóstico de resultados de partidos de fútbol. Los pasos que seguiré para crear este algoritmo son:
 
-Recopilar (Web Scrapping - fbref.com) y preprocesar (Pandas) los datos históricos de partidos de fútbol que se quieran utilizar para el pronóstico. Estos datos deben incluir información sobre el rendimiento de los equipos y de los jugadores, el estado de forma, las lesiones y otras variables que puedan ser relevantes para el pronóstico de resultados.
+The goal of this project is to create a Python algorithm that compares different machine learning models for predicting soccer match results. The steps that will be followed to create this algorithm are:
 
-Dividir los datos en conjuntos de entrenamiento y test. El conjunto de entrenamiento se utilizará para entrenar los modelos de machine learning y el conjunto de test se utilizará para evaluar la precisión de los modelos.
+Collect (using web scraping on fbref.com) and preprocess (using Pandas) historical soccer match data that will be used for prediction. This data should include information about the performance of the teams and players, form, injuries, and any other relevant variables for predicting match results.
 
-Entrenar los modelos de machine learning seleccionados (en este caso, bosque aleatorio, SVM, regresión logística y redes neuronales) utilizando el conjunto de entrenamiento.
+Split the data into training and test sets. The training set will be used to train the machine learning models, and the test set will be used to evaluate the accuracy of the models.
 
-Utilizar el conjunto de test para evaluar la precisión de cada modelo. Para ello, se pueden utilizar métricas como la precisión, el error de clasificación o el área bajo la curva ROC.
+Train the selected machine learning models (in this case, random forest, SVM, logistic regression, and neural networks) using the training set.
 
-Comparar los resultados obtenidos con cada modelo y seleccionar el que tenga la mayor precisión.
+Use the test set to evaluate the accuracy of each model, using metrics such as precision, classification error, or the area under the ROC curve.
 
-Utilizar el modelo seleccionado para realizar el pronóstico de resultados de los partidos de fútbol.
-**Author**: Ángel Daniel Gil Contreras
+Compare the results obtained with each model and select the one with the highest accuracy.
+
+Use the selected model to make predictions for soccer match results.
+
+Author: Ángel Daniel Gil Contreras
+
+
+
+
