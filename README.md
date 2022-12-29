@@ -12,3 +12,4 @@ Utilizar el conjunto de test para evaluar la precisión de cada modelo. Para ell
 Comparar los resultados obtenidos con cada modelo y seleccionar el que tenga la mayor precisión.
 
 Utilizar el modelo seleccionado para realizar el pronóstico de resultados de los partidos de fútbol.
+**Author**: Ángel Daniel Gil Contreras
