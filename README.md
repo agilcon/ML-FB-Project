@@ -1,4 +1,4 @@
-# ML-FB-Proyect
+# ML-FB-Project
 
 The goal of this project is to create a Python algorithm that compares different machine learning models for predicting soccer match results. The steps that will be followed to create this algorithm are:
 
